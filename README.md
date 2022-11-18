@@ -1,5 +1,7 @@
 #Shop App
+
 #Introduction:
+
 Let me give you a brief overview of the project, 
 Contain an Auth methode (Login - Signup)  also profile screen to edit the user profile.
 there is anther 4 screen: Home screen to show Best selling from products  in addition to  product and categories also search bar,
@@ -7,7 +9,8 @@ and as a second screen is a category screen to show the categories,
 also The Favoriets Screen to show the product what the user like it,
 Finally, The setting screen.
 
-##This Project Created use :
+#This Project Created use :
+
     - Sign-In, Sign-Up and Log_out using Email & Password .
     - Categories and Search for Products.
     - Add/Remove Products to/from favoriets.
@@ -19,6 +22,7 @@ Finally, The setting screen.
     - Using MVC as Architect Design.
     
 #ScreenShots
+
 ![Screenshot_20221118-110556](https://user-images.githubusercontent.com/109968682/202693829-2fa94080-3bb6-42ae-ad5d-52ce3c875bfd.jpg)
 ![Screenshot_20221118-110603](https://user-images.githubusercontent.com/109968682/202693862-ef423259-7d82-4fdd-9e21-583d06b40738.jpg)
 ![Screenshot_20221118-110611](https://user-images.githubusercontent.com/109968682/202693870-1018d5d7-af5f-42e3-b9e1-b4a0066dc316.jpg)
